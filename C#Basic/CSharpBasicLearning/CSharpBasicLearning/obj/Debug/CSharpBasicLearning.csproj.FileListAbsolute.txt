@@ -1,0 +1,7 @@
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\bin\Debug\CSharpBasicLearning.exe.config
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\bin\Debug\CSharpBasicLearning.exe
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\bin\Debug\CSharpBasicLearning.pdb
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\obj\Debug\CSharpBasicLearning.csprojAssemblyReference.cache
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\obj\Debug\CSharpBasicLearning.csproj.CoreCompileInputs.cache
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\obj\Debug\CSharpBasicLearning.exe
+D:\git\Training\C#Basic\CSharpBasicLearning\CSharpBasicLearning\obj\Debug\CSharpBasicLearning.pdb
